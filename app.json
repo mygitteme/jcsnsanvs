@@ -1,5 +1,5 @@
 {
-    "name": "V2/X2",
+    "name": "jcsnsanvs",
     "description": "Deploy V2 or X2 on Heroku.",
     "keywords": ["V2/X2"],
     "env": {
